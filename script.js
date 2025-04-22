@@ -41,7 +41,6 @@ function displayBooks() {
     read.checked = book.read;
     console.log(book.read);
     // console.log(i);
-    console.log("butts");
 
     const deleteBtn = document.createElement("button");
     deleteBtn.className = "deleteBtn";
