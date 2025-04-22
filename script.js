@@ -40,8 +40,6 @@ function displayBooks() {
     label.innerHTML = "Read?";
     read.checked = book.read;
     console.log(book.read);
-
-    console.log("fartss");
     // console.log(i);
 
     const deleteBtn = document.createElement("button");
